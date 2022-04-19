@@ -1,0 +1,15 @@
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/bin/Debug/net6.0/exmpl1
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/bin/Debug/net6.0/exmpl1.deps.json
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/bin/Debug/net6.0/exmpl1.runtimeconfig.json
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/bin/Debug/net6.0/exmpl1.dll
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/bin/Debug/net6.0/exmpl1.pdb
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.csproj.AssemblyReference.cache
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.GeneratedMSBuildEditorConfig.editorconfig
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.AssemblyInfoInputs.cache
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.AssemblyInfo.cs
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.csproj.CoreCompileInputs.cache
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.dll
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/refint/exmpl1.dll
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.pdb
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/exmpl1.genruntimeconfig.cache
+/home/smile/Documents/csharp_pract/lesson1/exmpl1/obj/Debug/net6.0/ref/exmpl1.dll
