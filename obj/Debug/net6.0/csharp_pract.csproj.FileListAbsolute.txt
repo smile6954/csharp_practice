@@ -1,0 +1,5 @@
+/home/smile/Documents/csharp_pract/obj/Debug/net6.0/csharp_pract.csproj.AssemblyReference.cache
+/home/smile/Documents/csharp_pract/obj/Debug/net6.0/csharp_pract.GeneratedMSBuildEditorConfig.editorconfig
+/home/smile/Documents/csharp_pract/obj/Debug/net6.0/csharp_pract.AssemblyInfoInputs.cache
+/home/smile/Documents/csharp_pract/obj/Debug/net6.0/csharp_pract.AssemblyInfo.cs
+/home/smile/Documents/csharp_pract/obj/Debug/net6.0/csharp_pract.csproj.CoreCompileInputs.cache
