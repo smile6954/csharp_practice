@@ -1,0 +1,15 @@
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/bin/Debug/net6.0/exc6
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/bin/Debug/net6.0/exc6.deps.json
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/bin/Debug/net6.0/exc6.runtimeconfig.json
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/bin/Debug/net6.0/exc6.dll
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/bin/Debug/net6.0/exc6.pdb
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.csproj.AssemblyReference.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.GeneratedMSBuildEditorConfig.editorconfig
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.AssemblyInfoInputs.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.AssemblyInfo.cs
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.csproj.CoreCompileInputs.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.dll
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/refint/exc6.dll
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.pdb
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/exc6.genruntimeconfig.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc6/obj/Debug/net6.0/ref/exc6.dll

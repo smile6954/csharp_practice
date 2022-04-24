@@ -1,0 +1,15 @@
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.csproj.AssemblyReference.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.GeneratedMSBuildEditorConfig.editorconfig
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.AssemblyInfoInputs.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.AssemblyInfo.cs
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.csproj.CoreCompileInputs.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/bin/Debug/net6.0/exc8
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/bin/Debug/net6.0/exc8.deps.json
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/bin/Debug/net6.0/exc8.runtimeconfig.json
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/bin/Debug/net6.0/exc8.dll
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/bin/Debug/net6.0/exc8.pdb
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.dll
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/refint/exc8.dll
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.pdb
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/exc8.genruntimeconfig.cache
+/home/smile/Documents/csharp_pract/lesson1/homework/exc8/obj/Debug/net6.0/ref/exc8.dll
